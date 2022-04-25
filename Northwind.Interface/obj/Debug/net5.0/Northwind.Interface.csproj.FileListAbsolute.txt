@@ -1,0 +1,15 @@
+F:\Patika\Northwind.Dal\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.deps.json
+F:\Patika\Northwind.Dal\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.dll
+F:\Patika\Northwind.Dal\Northwind.Interface\bin\Debug\net5.0\ref\Northwind.Interface.dll
+F:\Patika\Northwind.Dal\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.pdb
+F:\Patika\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.AssemblyReference.cache
+F:\Patika\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\Patika\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfoInputs.cache
+F:\Patika\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfo.cs
+F:\Patika\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.CoreCompileInputs.cache
+F:\Patika\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.dll
+F:\Patika\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\ref\Northwind.Interface.dll
+F:\Patika\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.pdb
+F:\Patika\Northwind.Dal\Northwind.Interface\bin\Debug\net5.0\Northwind.Entity.dll
+F:\Patika\Northwind.Dal\Northwind.Interface\bin\Debug\net5.0\Northwind.Entity.pdb
+F:\Patika\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.CopyComplete
